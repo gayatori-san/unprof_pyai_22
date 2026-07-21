@@ -28,7 +28,7 @@ For demonstration purposes, the project uses a small in-memory document collecti
 
 ```text
 .
-├── app.py                 # Main Conversational RAG application
+├── task 22.py                 # Main Conversational RAG application
 ├── README.md              # Project documentation
 └── requirements.txt       # Project dependencies
 ```
@@ -151,7 +151,7 @@ This enables natural multi-turn conversations.
 ## Clone the repository
 
 ```bash
-git clone https://github.com/gayatori-san/unprof_pyai_22
+git clone https://github.com/gayatori-san/unprof_pyai_22.git
 
 cd conversational-rag-cli
 ```
