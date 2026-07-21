@@ -27,7 +27,7 @@ For demonstration purposes, the project uses a small in-memory document collecti
 # 🏗️ Project Structure
 
 ```text
-.
+📂
 ├── task 22.py                 # Main Conversational RAG application
 ├── README.md              # Project documentation
 └── requirements.txt       # Project dependencies
